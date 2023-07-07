@@ -1,0 +1,4 @@
+.galley .active {
+    font-style: bold;
+    border: 10px solid salmon;
+}
